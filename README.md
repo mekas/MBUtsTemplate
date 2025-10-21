@@ -1,1 +1,9 @@
-# MBUtsTemplate
+# Mobile Computing Mid Term Exam
+Name : ....................
+
+NIM  : ....................
+
+Class: .................... (A/B)
+
+Gemini Prompt History: ...............
+
